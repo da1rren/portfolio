@@ -1,12 +1,14 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a lead platform engineer working on building secure, scalable solutions for the challenges facing the financial services industry",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Devops",
+    "Service Meshes",
+    "dotnet",
+    "Golang",
+    "Graphql",
+    "Leadership",
+    "Infrastructure as code",
+    "Continuous Integration and Continuous Delivery"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Leading teams to build the next generation of cloud native platforms spanning Aws & Azure."
 }
