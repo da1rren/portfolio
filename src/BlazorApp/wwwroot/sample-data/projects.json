@@ -3,10 +3,5 @@
     "title": "Escaping Kerberos in K8s",
     "description": "Embracing Kerberos without the Windows baggage can accelerate a cloud migration.",
     "url": "https://dev.to/da1rren/escaping-kerberos-with-some-simple-kubernetes-tricks-3hal"
-  },
-  {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
   }
 ]
